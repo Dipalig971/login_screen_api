@@ -14,3 +14,7 @@ Creating a login form in Flutter using the GetX package involves several steps, 
 
 - Clean Separation of Concerns: The controller handles the business logic and state management, while the view handles the UI. This separation makes the code more maintainable and testable.
 
+## Video
+
+https://github.com/user-attachments/assets/62faa84e-c55d-48bd-9340-50f641371a4d
+
